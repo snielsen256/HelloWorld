@@ -2,7 +2,7 @@
 
 This is a simple program that prints "hello world", made to demonstsrate the integration of Github with Visual Studio.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lSbAWprAXEs)
 
 # Development Environment
 
